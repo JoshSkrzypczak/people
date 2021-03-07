@@ -1,7 +1,7 @@
 id: ocd-person/9bfb23d9-4082-4c5c-89d7-dc670101ca2e
 name: Jim Hendren
 party:
-- name: Republican
+- name: Independent
 roles:
 - district: '2'
   jurisdiction: ocd-jurisdiction/country:us/state:ar/government
@@ -18,10 +18,12 @@ sources:
 - url: https://www.arkleg.state.ar.us/Legislators/Detail?member=J.+Hendren&ddBienniumSession=2021%2F2021R
 image: https://www.arkleg.state.ar.us/Content/photos/2021/Senate/403_sm.jpg
 extras:
-  occupation: 'Occupation:'
+  occupation: Owner, Hendren Plastics, Inc.
 other_identifiers:
 - identifier: ARL000186
   scheme: legacy_openstates
 given_name: Jim
 family_name: Hendren
 email: jim.hendren@senate.ar.gov
+other_names:
+- name: J. Hendren
